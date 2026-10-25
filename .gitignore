@@ -1,0 +1,18 @@
+
+# Python backend
+backend/venv/
+backend/__pycache__/
+*.py[cod]
+
+# React frontend
+frontend/node_modules/
+frontend/dist/
+
+# Secrets
+.env
+.env.*
+
+# Editor and operating system
+.vscode/
+.DS_Store
+Thumbs.db
